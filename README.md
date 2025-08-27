@@ -1,7 +1,7 @@
 📊 État du projet — Arka R1 (fin M2)
 ✅ Réalisé
 
-M1 livré et validé : test 
+M1 livré et validé : Merlin si tu vois ce texte alors j'ai reussi a partager un fichier sur le web dans le prompt d'un gpt
 
 Authentification multi-clients et RBAC (viewer / operator / owner).
 
