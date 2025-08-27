@@ -1,7 +1,7 @@
 📊 État du projet — Arka R1 (fin M2)
 ✅ Réalisé
 
-M1 livré et validé :
+M1 livré et validé : test 
 
 Authentification multi-clients et RBAC (viewer / operator / owner).
 
